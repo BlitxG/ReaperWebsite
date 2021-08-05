@@ -36,6 +36,11 @@ body {
 
 .logo-bar {
     background-color: black;
+    color: #ffffff;
+}
+
+.borderNo {
+    border: none;
 }
 
 .fade-zain {
