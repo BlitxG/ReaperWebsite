@@ -103,8 +103,19 @@ abbr {
 }
 
 
-.textNo {
+.twitch--link {
     text-decoration: none;
+    color: #aa00ff;
+}
+
+.youtube--link {
+    text-decoration: none;
+    color: #ff1500;
+}
+
+.discord--link {
+    text-decoration: none;
+    color: #0040ff;
 }
 
 
@@ -116,15 +127,3 @@ abbr {
 }
 
 /* SUDO ELEMENTS */
-
-sudoY {
-    color: #ff0000;
-}
-
-sudoT {
-    color: #9300b8;
-}
-
-sudoD {
-    color: #0042f8;
-}
